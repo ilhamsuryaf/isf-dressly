@@ -158,7 +158,7 @@ nav {
 .selection-card {
   width: calc(100% / 3);
   overflow: hidden;
-  background-image: url("./img/top1.png");
+  background-image: url("/img/top1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -167,11 +167,11 @@ nav {
 }
 
 .selection-card:nth-child(2) {
-  background-image: url("./img/top2.png");
+  background-image: url("/img/top2.png");
 }
 
 .selection-card:last-child {
-  background-image: url("./img/top3.png");
+  background-image: url("/img/top3.png");
 }
 
 .selection-card::after {
