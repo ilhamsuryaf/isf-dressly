@@ -13,24 +13,24 @@ document.addEventListener("click", function (e) {
 
 const products = [
   {
-    pic: "/img/bs-sneaker.png",
+    pic: "./img/bs-sneaker.png",
     name: "Sneakers",
     price: "Rp. 1.097.500",
     afterDiscount: "Rp. 965.500",
   },
   {
-    pic: "/img/bs-womenrobe.png",
+    pic: "./img/bs-womenrobe.png",
     name: "Women's Robes",
     price: "Rp. 755.000",
   },
   {
-    pic: "/img/bs-bag.png",
+    pic: "./img/bs-bag.png",
     name: "Bag",
     price: "Rp. 1.000.500",
     afterDiscount: "Rp. 920.500",
   },
   {
-    pic: "/img/bs-menrobe.png",
+    pic: "./img/bs-menrobe.png",
     name: "Men's Robes",
     price: "Rp. 680.000",
   },
